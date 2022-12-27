@@ -2,6 +2,7 @@
 
 
 ![Dark theme](images/dark-img.png)
+![Light theme](images/light-img.png)
 
 A new Flutter project.
 
